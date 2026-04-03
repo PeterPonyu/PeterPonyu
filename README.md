@@ -103,8 +103,11 @@ My research focuses on building **machine learning methods for single-cell genom
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KWJ-2691-2024)
+
+<!-- TODO: Uncomment and fill in your IDs when ready:
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/YOUR_WOS_ID)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+-->
 
 </div>
 
@@ -114,12 +117,12 @@ My research focuses on building **machine learning methods for single-cell genom
 |:------:|:-----:|
 | ![Publications](https://img.shields.io/badge/Publications-7+-1f6feb?style=flat-square&logo=bookstack&logoColor=white) | First / Co-first author on all |
 | ![Corresponding](https://img.shields.io/badge/Corresponding_Author-6-0f766e?style=flat-square&logo=checkmarx&logoColor=white) | Corresponding on 6 of 7 papers |
-| ![Reviews](https://img.shields.io/badge/Peer_Reviews-Verified_Reviewer-FF6F00?style=flat-square&logo=clarivate&logoColor=white) | Web of Science verified |
+| ![Reviews](https://img.shields.io/badge/Peer_Reviews-Active_Reviewer-FF6F00?style=flat-square&logo=clarivate&logoColor=white) | Reviewer for peer-reviewed journals |
 | ![Repos](https://img.shields.io/badge/Open_Source_Tools-20+-9333ea?style=flat-square&logo=github&logoColor=white) | All original research software |
 
 </div>
 
-> **Note**: For live citation metrics, visit my [ORCID](https://orcid.org/0009-0001-8329-0108) or [Web of Science](https://www.webofscience.com/wos/author/record/KWJ-2691-2024) profile.
+> **Note**: For live citation metrics, visit my [ORCID](https://orcid.org/0009-0001-8329-0108) profile.
 
 ---
 
@@ -211,7 +214,6 @@ My research focuses on building **machine learning methods for single-cell genom
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterPonyu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterPonyu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KWJ-2691-2024)
 [![Email](https://img.shields.io/badge/Email-fuzeyu99%40126.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzeyu99@126.com)
 
 | Documentation | Link |
