@@ -48,9 +48,11 @@ My research focuses on building **machine learning methods for single-cell genom
 ### Deep Learning & Scientific Computing
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![torchdiffeq](https://img.shields.io/badge/torchdiffeq-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Single-Cell Genomics
@@ -61,14 +63,20 @@ My research focuses on building **machine learning methods for single-cell genom
 
 ### Web & Visualization
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![ReadTheDocs](https://img.shields.io/badge/ReadTheDocs-8CA1AF?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Sphinx](https://img.shields.io/badge/Sphinx-000000?style=for-the-badge&logo=sphinx&logoColor=white)
@@ -103,11 +111,9 @@ My research focuses on building **machine learning methods for single-cell genom
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
-
-<!-- TODO: Uncomment and fill in your IDs when ready:
-[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/YOUR_WOS_ID)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
--->
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-NOE--8588--2025-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
+[![Scopus](https://img.shields.io/badge/Scopus-59315299200-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59315299200)
+[![SciProfiles](https://img.shields.io/badge/SciProfiles-4363562-4CAF50?style=for-the-badge&logo=mdpi&logoColor=white)](https://sciprofiles.com/profile/4363562)
 
 </div>
 
@@ -122,7 +128,7 @@ My research focuses on building **machine learning methods for single-cell genom
 
 </div>
 
-> **Note**: For live citation metrics, visit my [ORCID](https://orcid.org/0009-0001-8329-0108) profile.
+> **Note**: For live citation metrics, visit my [ORCID](https://orcid.org/0009-0001-8329-0108), [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025), or [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) profile.
 
 ---
 
@@ -138,7 +144,7 @@ My research focuses on building **machine learning methods for single-cell genom
 | **`CF`** **`CA`** | **[LiVAE](https://doi.org/10.3389/fgene.2025.1713727)** | *Frontiers in Genetics* | 2025 | Lorentz-regularized dual-pathway VAE combining hyperbolic and Euclidean representations |
 | **`CF`** **`CA`** | **[GNODEVAE](https://doi.org/10.1186/s12864-025-11946-7)** | *BMC Genomics* | 2025 | Graph attention + Neural ODE VAE for trajectory-aware representation learning |
 | **`F`** **`CA`** | **[CODE](https://doi.org/10.1016/j.compbiomed.2025.111115)** | *Comput. Biol. Med.* | 2025 | Correlated latent space learning and continuum modeling for scRNA data |
-| **`F`** | **[iAODE](https://doi.org/10.5281/zenodo.18453104)** | *Preprint / Zenodo* | 2025 | Interpretable ODE-VAE for sparse chromatin accessibility (scATAC-seq) |
+| **`F`** | **[iAODE](https://doi.org/10.5281/zenodo.18453104)** | *Preprint / Zenodo* | 2025 | Interpretable Neural ODE-VAE with NB/ZINB likelihoods for scATAC-seq trajectory inference |
 
 ---
 
@@ -156,7 +162,7 @@ My research focuses on building **machine learning methods for single-cell genom
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/LiVAE?style=flat-square&color=yellow) | [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized interpretable VAE for transcriptomic & epigenomic data | |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/GNODEVAE?style=flat-square&color=yellow) | [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics | |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Interpretable ODE-VAE for scATAC-seq chromatin accessibility | [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Interpretable Neural ODE-VAE for scATAC-seq trajectory inference | [![PyPI](https://img.shields.io/pypi/v/iaode?style=flat-square&color=brightgreen)](https://pypi.org/project/iaode/) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
 
 ### Emerging Research
 
@@ -214,6 +220,8 @@ My research focuses on building **machine learning methods for single-cell genom
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterPonyu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterPonyu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-NOE--8588--2025-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
+[![Scopus](https://img.shields.io/badge/Scopus-59315299200-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59315299200)
 [![Email](https://img.shields.io/badge/Email-fuzeyu99%40126.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzeyu99@126.com)
 
 | Documentation | Link |
