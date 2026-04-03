@@ -121,8 +121,8 @@ My research focuses on building **machine learning methods for single-cell genom
 
 | Metric | Count |
 |:------:|:-----:|
-| ![Publications](https://img.shields.io/badge/Publications-7+-1f6feb?style=flat-square&logo=bookstack&logoColor=white) | First / Co-first author on all |
-| ![Corresponding](https://img.shields.io/badge/Corresponding_Author-6-0f766e?style=flat-square&logo=checkmarx&logoColor=white) | Corresponding on 6 of 7 papers |
+| ![Publications](https://img.shields.io/badge/Publications-8-1f6feb?style=flat-square&logo=bookstack&logoColor=white) | First / Co-first author on all (incl. 1 Nature journal) |
+| ![Corresponding](https://img.shields.io/badge/Corresponding_Author-6-0f766e?style=flat-square&logo=checkmarx&logoColor=white) | Corresponding on 6 of 8 papers |
 | ![Reviews](https://img.shields.io/badge/Peer_Reviews-Active_Reviewer-FF6F00?style=flat-square&logo=clarivate&logoColor=white) | Reviewer for peer-reviewed journals |
 | ![Repos](https://img.shields.io/badge/Open_Source_Tools-20+-9333ea?style=flat-square&logo=github&logoColor=white) | All original research software |
 
@@ -134,17 +134,57 @@ My research focuses on building **machine learning methods for single-cell genom
 
 ## Selected Publications
 
-> **Legend**: **`F`** = First author | **`CF`** = Co-first author | **`CA`** = Corresponding author
+> **`F`** First author | **`CF`** Co-first (equal contribution) | **`CA`** Corresponding author
 
-| Role | Tool | Journal | Year | Description |
-|:----:|:-----|:--------|:----:|:------------|
-| **`F`** **`CA`** | **[scRL](https://doi.org/10.3390/biology14060679)** | *Biology* | 2025 | Actor-critic RL framework for identifying early fate-decision states in single-cell data |
-| **`CF`** **`CA`** | **[scFocus](https://doi.org/10.1016/j.csbj.2025.04.036)** | *Comput. Struct. Biotechnol. J.* | 2025 | SAC-based branching probability estimation for lineage structure characterization |
-| **`CF`** **`CA`** | **[iVAE](https://doi.org/10.1186/s12915-025-02315-7)** | *BMC Biology* | 2025 | Interpretable VAE framework enhancing clustering and revealing latent biological structure |
-| **`CF`** **`CA`** | **[LiVAE](https://doi.org/10.3389/fgene.2025.1713727)** | *Frontiers in Genetics* | 2025 | Lorentz-regularized dual-pathway VAE combining hyperbolic and Euclidean representations |
-| **`CF`** **`CA`** | **[GNODEVAE](https://doi.org/10.1186/s12864-025-11946-7)** | *BMC Genomics* | 2025 | Graph attention + Neural ODE VAE for trajectory-aware representation learning |
-| **`F`** **`CA`** | **[CODE](https://doi.org/10.1016/j.compbiomed.2025.111115)** | *Comput. Biol. Med.* | 2025 | Correlated latent space learning and continuum modeling for scRNA data |
-| **`F`** | **[iAODE](https://doi.org/10.5281/zenodo.18453104)** | *Preprint / Zenodo* | 2025 | Interpretable Neural ODE-VAE with NB/ZINB likelihoods for scATAC-seq trajectory inference |
+**Fu, Z.**<sup>#</sup>, Chen, C.<sup>#</sup>, Wang, S., Wang, J.<sup>\*</sup>, Chen, S.<sup>\*</sup> (2025).
+scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell Data.
+***Biology***, 14(6), 679.
+**`F`** **`CF`**
+[![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/)
+
+Chen, C.<sup>#</sup>, **Fu, Z.**<sup>#,\*</sup>, Yang, J., Chen, H., Huang, J., Qin, S., Wang, C.<sup>\*</sup>, Hu, X.<sup>\*</sup> (2025).
+scFocus: Detecting Branching Probabilities in Single-cell Data with SAC.
+***Computational and Structural Biotechnology Journal***, 27, 2243--2263.
+**`CF`** **`CA`**
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.csbj.2025.04.036-blue?style=flat-square)](https://doi.org/10.1016/j.csbj.2025.04.036) [![PubMed](https://img.shields.io/badge/PMID-40520594-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40520594/)
+
+**Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S., Wang, J.<sup>\*</sup>, Chen, S.<sup>\*</sup> (2025).
+iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Performance for Single-Cell Data.
+***BMC Biology***, 23, 213.
+**`F`** **`CF`** **`CA`**
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12915--025--02315--7-blue?style=flat-square)](https://doi.org/10.1186/s12915-025-02315-7)
+
+**Fu, Z.**<sup>†,\*</sup>, Fu, J.<sup>†</sup>, Chen, C., Zhang, K., Wang, S.<sup>\*</sup> (2026).
+Lorentz-Regularized Interpretable VAE for Multi-Scale Single-Cell Transcriptomic and Epigenomic Embeddings.
+***Frontiers in Genetics***, 16, 1713727.
+**`F`** **`CF`** **`CA`**
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2025.1713727-blue?style=flat-square)](https://doi.org/10.3389/fgene.2025.1713727) [![PubMed](https://img.shields.io/badge/PMID-41555918-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41555918/)
+
+**Fu, Z.**<sup>#</sup>, Chen, C.<sup>#</sup>, Wang, S., Wang, J., Chen, S. (2025).
+GNODEVAE: A Graph-Based ODE-VAE Enhances Clustering for Single-Cell Data.
+***BMC Genomics***, 26, 767.
+**`F`** **`CF`**
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/)
+
+**Fu, Z.**<sup>\*</sup>, Chen, C.<sup>\*</sup> (2025).
+Correlated Latent Space Learning for Structural Differentiation Modeling in Single Cell RNA Data.
+***Computers in Biology and Medicine***, 198(A), 111115.
+**`F`** **`CA`**
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/)
+
+**Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S., Wang, J.<sup>\*</sup>, Chen, S.<sup>\*</sup> (2026).
+iAODE for Benchmarking and Continuum Modeling of Single-Cell Chromatin Accessibility.
+***Communications Biology*** (Nature), 2026.
+**`F`** **`CF`** **`CA`**
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s42003--026--09768--8-blue?style=flat-square)](https://doi.org/10.1038/s42003-026-09768-8) [![PubMed](https://img.shields.io/badge/PMID-41775921-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41775921/)
+
+**Fu, Z.** (2026).
+CLOP-DiT: Structured-Metadata-Conditioned Single-Cell Latent Generation via Contrastive Language-Omics Pretraining and Diffusion Transformers.
+***bioRxiv*** (Preprint).
+**`F`** (sole author)
+[![DOI](https://img.shields.io/badge/DOI-10.64898/2026.03.26.714457-blue?style=flat-square)](https://doi.org/10.64898/2026.03.26.714457)
+
+> <sup>#</sup> Equal contribution | <sup>\*</sup> Corresponding author | <sup>†</sup> Equal contribution
 
 ---
 
@@ -196,11 +236,11 @@ My research focuses on building **machine learning methods for single-cell genom
 <div align="center">
 
 <a href="https://github.com/PeterPonyu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterPonyu&theme=tokyonight&hide_border=true)](https://github.com/PeterPonyu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PeterPonyu&theme=tokyonight&hide_border=true)](https://github.com/PeterPonyu)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
@@ -239,6 +279,8 @@ My research focuses on building **machine learning methods for single-cell genom
 ---
 
 <div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PeterPonyu)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
