@@ -98,6 +98,31 @@ My research focuses on building **machine learning methods for single-cell genom
 
 ---
 
+## Academic Metrics
+
+<div align="center">
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher_Profile-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KWJ-2691-2024)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+
+</div>
+
+<div align="center">
+
+| Metric | Count |
+|:------:|:-----:|
+| ![Publications](https://img.shields.io/badge/Publications-7+-1f6feb?style=flat-square&logo=bookstack&logoColor=white) | First / Co-first author on all |
+| ![Corresponding](https://img.shields.io/badge/Corresponding_Author-6-0f766e?style=flat-square&logo=checkmarx&logoColor=white) | Corresponding on 6 of 7 papers |
+| ![Reviews](https://img.shields.io/badge/Peer_Reviews-Verified_Reviewer-FF6F00?style=flat-square&logo=clarivate&logoColor=white) | Web of Science verified |
+| ![Repos](https://img.shields.io/badge/Open_Source_Tools-20+-9333ea?style=flat-square&logo=github&logoColor=white) | All original research software |
+
+</div>
+
+> **Note**: For live citation metrics, visit my [ORCID](https://orcid.org/0009-0001-8329-0108) or [Web of Science](https://www.webofscience.com/wos/author/record/KWJ-2691-2024) profile.
+
+---
+
 ## Selected Publications
 
 > **Legend**: **`F`** = First author | **`CF`** = Co-first author | **`CA`** = Corresponding author
@@ -116,85 +141,44 @@ My research focuses on building **machine learning methods for single-cell genom
 
 ## Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/PeterPonyu/scRL">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=scRL&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/scfocus">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=scfocus&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/iVAE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=iVAE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/LiVAE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=LiVAE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/GNODEVAE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=GNODEVAE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/CODE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=CODE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/iAODE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=iAODE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/CCVGAE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=CCVGAE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/MCCVAE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=MCCVAE&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/Liora">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=Liora&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/GAHIB">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=GAHIB&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/PeterPonyu/PanODE-DPMM">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterPonyu&repo=PanODE-DPMM&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## Open-Source Projects
-
-All tools below are **my original works**, developed during my doctoral research:
+<div align="center">
 
 ### Core Published Tools
 
-| Repository | Description |
-|:-----------|:------------|
-| [**scRL**](https://github.com/PeterPonyu/scRL) | Single-cell reinforcement learning for fate decision analysis |
-| [**scFocus**](https://github.com/PeterPonyu/scfocus) | Lineage focusing and branching probability analysis |
-| [**iVAE**](https://github.com/PeterPonyu/iVAE) | Interpretable variational autoencoders for single-cell data |
-| [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized interpretable VAE for transcriptomic & epigenomic data |
-| [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics |
-| [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling |
-| [**iAODE**](https://github.com/PeterPonyu/iAODE) | Interpretable ODE-VAE for scATAC-seq chromatin accessibility |
+| | Repository | Description | Links |
+|:---:|:-----------|:------------|:------|
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scRL?style=flat-square&color=yellow) | [**scRL**](https://github.com/PeterPonyu/scRL) | Single-cell reinforcement learning for fate decision analysis | [![PyPI](https://img.shields.io/pypi/v/scrl-fatedecision?style=flat-square&color=brightgreen)](https://pypi.org/project/scrl-fatedecision/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scrl.readthedocs.io) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scfocus?style=flat-square&color=yellow) | [**scFocus**](https://github.com/PeterPonyu/scfocus) | Lineage focusing and branching probability analysis | [![PyPI](https://img.shields.io/pypi/v/scfocus?style=flat-square&color=brightgreen)](https://pypi.org/project/scfocus/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scfocus.readthedocs.io) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iVAE?style=flat-square&color=yellow) | [**iVAE**](https://github.com/PeterPonyu/iVAE) | Interpretable variational autoencoders for single-cell data | [![PyPI](https://img.shields.io/pypi/v/iVAE?style=flat-square&color=brightgreen)](https://pypi.org/project/iVAE/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://ivae.readthedocs.io) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/LiVAE?style=flat-square&color=yellow) | [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized interpretable VAE for transcriptomic & epigenomic data | |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/GNODEVAE?style=flat-square&color=yellow) | [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics | |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Interpretable ODE-VAE for scATAC-seq chromatin accessibility | [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
 
 ### Emerging Research
 
-| Repository | Description |
-|:-----------|:------------|
-| [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-based Coupled Variational Graph Autoencoder for single-cell multi-omics |
-| [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum Contrastive Coupling VAE unifying discrete and continuous structure |
-| [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Graph Attention VAE with Hyperbolic Information Bottleneck |
-| [**Liora**](https://github.com/PeterPonyu/Liora) | Lorentz Interpretable ODE Regularized Attention-based VAE |
-| [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Flow-matching refined DPMM prior autoencoder for representation learning |
-| [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Flow-matching-refined Dirichlet-prior autoencoders for interpretable representations |
-| [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Diffusion transformer for single-cell analysis |
-| [**HSDE**](https://github.com/PeterPonyu/HSDE) | Hyperbolic stochastic differential equation modeling |
-| [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Momentum contrastive optimization framework |
-| [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Benchmarking Local LLMs for privacy-preserving single-cell dataset discovery |
+| | Repository | Description |
+|:---:|:-----------|:------------|
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-based Coupled Variational Graph Autoencoder for single-cell multi-omics |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum Contrastive Coupling VAE unifying discrete and continuous structure |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/GAHIB?style=flat-square&color=yellow) | [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Graph Attention VAE with Hyperbolic Information Bottleneck |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/Liora?style=flat-square&color=yellow) | [**Liora**](https://github.com/PeterPonyu/Liora) | Lorentz Interpretable ODE Regularized Attention-based VAE |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/PanODE-DPMM?style=flat-square&color=yellow) | [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Flow-matching refined DPMM prior autoencoder for representation learning |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/PanODE-Topic?style=flat-square&color=yellow) | [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Flow-matching-refined Dirichlet-prior autoencoders for interpretable representations |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CLOP-DiT?style=flat-square&color=yellow) | [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Diffusion transformer for single-cell analysis |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/HSDE?style=flat-square&color=yellow) | [**HSDE**](https://github.com/PeterPonyu/HSDE) | Hyperbolic stochastic differential equation modeling |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MoCoO?style=flat-square&color=yellow) | [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Momentum contrastive optimization framework |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scMetaIntel-Hub?style=flat-square&color=yellow) | [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Benchmarking Local LLMs for privacy-preserving single-cell dataset discovery |
 
 ### Web Applications & Dashboards
 
-| Repository | Description |
-|:-----------|:------------|
-| [**liora-ui**](https://github.com/PeterPonyu/liora-ui) | Single-cell benchmarking dashboard (TypeScript) |
-| [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal (Vue.js) |
-| [**mrnapp-intersection**](https://github.com/PeterPonyu/mrnapp-intersection) | mRNA intersection visualization tool |
+| | Repository | Description | Demo |
+|:---:|:-----------|:------------|:-----|
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/liora-ui?style=flat-square&color=yellow) | [**liora-ui**](https://github.com/PeterPonyu/liora-ui) | Single-cell benchmarking dashboard (TypeScript) | [Live](https://peterponyu.github.io/liora-ui/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scportal?style=flat-square&color=yellow) | [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal (Vue.js) | [Live](https://peterponyu.github.io/scportal/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/mrnapp-intersection?style=flat-square&color=yellow) | [**mrnapp-intersection**](https://github.com/PeterPonyu/mrnapp-intersection) | mRNA intersection visualization tool | [Live](https://peterponyu.github.io/mrnapp-intersection/) |
+
+</div>
 
 ---
 
@@ -202,16 +186,19 @@ All tools below are **my original works**, developed during my doctoral research
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/PeterPonyu)
+<a href="https://github.com/PeterPonyu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/PeterPonyu)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PeterPonyu&theme=tokyonight&hide_border=true)](https://github.com/PeterPonyu)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
@@ -224,6 +211,7 @@ All tools below are **my original works**, developed during my doctoral research
 
 [![GitHub](https://img.shields.io/badge/GitHub-PeterPonyu-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterPonyu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
+[![Web of Science](https://img.shields.io/badge/Web_of_Science-Researcher-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/KWJ-2691-2024)
 [![Email](https://img.shields.io/badge/Email-fuzeyu99%40126.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzeyu99@126.com)
 
 | Documentation | Link |
@@ -241,8 +229,6 @@ All tools below are **my original works**, developed during my doctoral research
 ---
 
 <div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PeterPonyu)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
