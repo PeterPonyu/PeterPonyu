@@ -174,11 +174,11 @@ Lorentz-Regularized Interpretable VAE for Multi-Scale Single-Cell Transcriptomic
 <div align="center">
 
 <a href="https://github.com/PeterPonyu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Top Languages" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PeterPonyu&theme=tokyonight&hide_border=true)](https://github.com/PeterPonyu)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PeterPonyu&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/PeterPonyu)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
