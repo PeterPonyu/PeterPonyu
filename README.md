@@ -6,8 +6,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/PeterPonyu?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/PeterPonyu)
 [![GitHub stars](https://img.shields.io/github/stars/PeterPonyu?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/PeterPonyu)
+[![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
 [![Profile Views](https://komarev.com/ghpvc/?username=PeterPonyu&style=for-the-badge&color=blueviolet)](https://github.com/PeterPonyu)
+
+**Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/)
 
 </div>
 
@@ -77,6 +80,7 @@ My research develops machine learning methods for single-cell sequencing data (s
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
+[![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![Web of Science](https://img.shields.io/badge/Web_of_Science-NOE--8588--2025-5C2D91?style=for-the-badge&logo=clarivate&logoColor=white)](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
 [![Scopus](https://img.shields.io/badge/Scopus-59315299200-E9711C?style=for-the-badge&logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=59315299200)
 [![Email](https://img.shields.io/badge/Email-fuzeyu99%40126.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuzeyu99@126.com)
