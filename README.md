@@ -133,13 +133,6 @@ CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable an
 ***Array***.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
 
-## Accepted / In Press
-
-**Fu, Z.**<sup>\*</sup>, Fu, J., Zhang, K., Ran, T., Chen, C.
-LAIOR: A Hyperbolic Neural-ODE Variational Framework for Interpretable Single-Cell Manifold Learning and Trajectory Inference.
-***Frontiers in Genetics***. Accepted.
-[![GitHub](https://img.shields.io/badge/Code-LAIOR-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/Liora)
-
 ---
 
 ## Featured Repositories
@@ -159,31 +152,10 @@ LAIOR: A Hyperbolic Neural-ODE Variational Framework for Interpretable Single-Ce
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | [![PyPI](https://img.shields.io/pypi/v/scCODE?style=flat-square&color=brightgreen)](https://pypi.org/project/scCODE/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-coupled variational graph attention autoencoder (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) |
 
-### Accepted / In Press
-
-| Repository | Description |
-|:-----------|:------------|
-| [**LAIOR**](https://github.com/PeterPonyu/Liora) | Hyperbolic Neural-ODE VAE for interpretable single-cell manifold learning and trajectory inference — *accepted at Frontiers in Genetics* |
-
-### In Development
-
-| | Repository | Description |
-|:---:|:-----------|:------------|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum Contrastive Coupling VAE for single-cell omics |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/GAHIB?style=flat-square&color=yellow) | [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Graph Attention VAE with Hyperbolic Information Bottleneck |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/Liora?style=flat-square&color=yellow) | [**Liora**](https://github.com/PeterPonyu/Liora) | Lorentz ODE Regularized Attention-based VAE |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/PanODE-DPMM?style=flat-square&color=yellow) | [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Flow-matching refined DPMM prior autoencoder |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/PanODE-Topic?style=flat-square&color=yellow) | [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Flow-matching-refined Dirichlet-prior autoencoder |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CLOP-DiT?style=flat-square&color=yellow) | [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Contrastive language-omics pretraining with diffusion transformer |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/HSDE?style=flat-square&color=yellow) | [**HSDE**](https://github.com/PeterPonyu/HSDE) | Hyperbolic stochastic differential equation modeling |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MoCoO?style=flat-square&color=yellow) | [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Momentum contrastive optimization framework |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scMetaIntel-Hub?style=flat-square&color=yellow) | [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Benchmarking local LLMs for single-cell dataset discovery |
-
 ### Web Applications
 
 | | Repository | Description | Demo |
 |:---:|:-----------|:------------|:-----|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/liora-ui?style=flat-square&color=yellow) | [**liora-ui**](https://github.com/PeterPonyu/liora-ui) | Single-cell benchmarking dashboard | [Live](https://peterponyu.github.io/liora-ui/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/scportal?style=flat-square&color=yellow) | [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal | [Live](https://peterponyu.github.io/scportal/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/mrnapp-intersection?style=flat-square&color=yellow) | [**mrnapp-intersection**](https://github.com/PeterPonyu/mrnapp-intersection) | mRNA intersection visualization | [Live](https://peterponyu.github.io/mrnapp-intersection/) |
 
@@ -196,7 +168,7 @@ LAIOR: A Hyperbolic Neural-ODE Variational Framework for Interpretable Single-Ce
 <div align="center">
 
 <a href="https://github.com/PeterPonyu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Top Languages" />
 </a>
 
