@@ -93,6 +93,11 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 > <sup>#</sup> Equal contribution &ensp; <sup>\*</sup> Corresponding author
 
+**Fu, Z.**<sup>\*</sup>, Liu, Y., Wang, J., Wang, S. (2026).
+CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable and Interpretable Single-Cell Representation Learning.
+***Array***.
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
+
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2026).
 iAODE for Benchmarking and Continuum Modeling of Single-Cell Chromatin Accessibility.
 ***Communications Biology***.
@@ -145,12 +150,18 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/LiVAE?style=flat-square&color=yellow) | [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized VAE for transcriptomic & epigenomic data | [![PyPI](https://img.shields.io/pypi/v/livae?style=flat-square&color=brightgreen)](https://pypi.org/project/livae/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/GNODEVAE?style=flat-square&color=yellow) | [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics | [![PyPI](https://img.shields.io/pypi/v/gnodevae?style=flat-square&color=brightgreen)](https://pypi.org/project/gnodevae/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | [![PyPI](https://img.shields.io/pypi/v/scCODE?style=flat-square&color=brightgreen)](https://pypi.org/project/scCODE/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-coupled variational graph attention autoencoder (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) |
+
+### Under Review
+
+| Repository | Description |
+|:-----------|:------------|
+| [**LAIOR**](https://github.com/PeterPonyu/Liora) | Hyperbolic Neural-ODE VAE for interpretable single-cell manifold learning and trajectory inference — *submitted* |
 
 ### In Development
 
 | | Repository | Description |
 |:---:|:-----------|:------------|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Coupled Variational Graph Autoencoder for single-cell multi-omics |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum Contrastive Coupling VAE for single-cell omics |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/GAHIB?style=flat-square&color=yellow) | [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Graph Attention VAE with Hyperbolic Information Bottleneck |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/Liora?style=flat-square&color=yellow) | [**Liora**](https://github.com/PeterPonyu/Liora) | Lorentz ODE Regularized Attention-based VAE |
