@@ -156,8 +156,25 @@ CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable an
 
 | | Repository | Description | Demo |
 |:---:|:-----------|:------------|:-----|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scportal?style=flat-square&color=yellow) | [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal | [Live](https://peterponyu.github.io/scportal/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scportal?style=flat-square&color=yellow) | [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal and discovery hub | [Live](https://peterponyu.github.io/scportal/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/liora-ui?style=flat-square&color=yellow) | [**liora-ui**](https://github.com/PeterPonyu/liora-ui) | LAIOR single-cell benchmarking dashboard | [Live](https://peterponyu.github.io/liora-ui/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/mrnapp-intersection?style=flat-square&color=yellow) | [**mrnapp-intersection**](https://github.com/PeterPonyu/mrnapp-intersection) | mRNA intersection visualization | [Live](https://peterponyu.github.io/mrnapp-intersection/) |
+
+### Archive / Legacy Entries
+
+Older or exploratory project entries are kept discoverable here without competing with the current public pages above.
+
+| Repository | Status | Description |
+|:-----------|:-------|:------------|
+| [**LAIOR**](https://github.com/PeterPonyu/Liora) | Accepted / legacy code entry | Hyperbolic Neural-ODE VAE for interpretable single-cell manifold learning and trajectory inference |
+| [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Landing-only public surface | Momentum Contrastive Coupling VAE for single-cell omics; public page remains a landing entry, not a hosted training app |
+| [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Exploratory / legacy | Graph Attention VAE with Hyperbolic Information Bottleneck |
+| [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Exploratory / legacy | Flow-matching refined DPMM prior autoencoder |
+| [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Exploratory / legacy | Flow-matching-refined Dirichlet-prior autoencoder |
+| [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Exploratory / legacy | Contrastive language-omics pretraining with diffusion transformer |
+| [**HSDE**](https://github.com/PeterPonyu/HSDE) | Exploratory / legacy | Hyperbolic stochastic differential equation modeling |
+| [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Exploratory / legacy | Momentum contrastive optimization framework |
+| [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Exploratory / legacy | Benchmarking local LLMs for single-cell dataset discovery |
 
 </div>
 
