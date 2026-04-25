@@ -22,12 +22,12 @@
 
 I graduated from **Baoding No.1 High School, Hebei** in 2017, and have since been enrolled in a direct Ph.D. program, pursuing my doctoral degree to this day.
 
-My research develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), with published work in reinforcement learning, variational autoencoders, neural ODEs, graph neural networks, and hyperbolic geometry applied to cell fate analysis and representation learning.
+My research develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), with published work in reinforcement learning, contrastive coupling, variational autoencoders, neural ODEs, graph neural networks, and hyperbolic geometry applied to cell fate analysis and representation learning.
 
 ```text
 🎓 Background     : 保定一中 (2017) → Direct Ph.D. program → Present
 🔬 Current focus   : Machine learning methods for single-cell genomics
-🛠️ Building        : Open-source Python packages for single-cell representation learning
+🛠️ Building        : Open-source packages and paper companion platforms for single-cell representation learning
 🤝 Open to         : Research collaboration and reproducible analysis
 ```
 
@@ -93,6 +93,11 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 > <sup>#</sup> Equal contribution &ensp; <sup>\*</sup> Corresponding author
 
+**Fu, Z.**, Chen, C., Zhang, K. (2026).
+Islands and bridges: Momentum contrastive coupling unifies discrete and continuous structure in single-cell omics.
+***Biomedical Signal Processing and Control***, 122, 110376.
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.bspc.2026.110376-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
+
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Performance for Single-Cell Data.
 ***BMC Biology***, 23, 213.
@@ -143,6 +148,7 @@ CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable an
 
 | | Repository | Description | Links |
 |:---:|:-----------|:------------|:------|
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum contrastive coupling for single-cell omics (BSPC, 2026) | [![DOI](https://img.shields.io/badge/DOI-BSPC-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/MCCVAE/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Neural ODE-VAE for scATAC-seq trajectory inference | [![PyPI](https://img.shields.io/pypi/v/iaode?style=flat-square&color=brightgreen)](https://pypi.org/project/iaode/) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/scRL?style=flat-square&color=yellow) | [**scRL**](https://github.com/PeterPonyu/scRL) | Reinforcement learning for cell fate decision analysis | [![PyPI](https://img.shields.io/pypi/v/scrl-fatedecision?style=flat-square&color=brightgreen)](https://pypi.org/project/scrl-fatedecision/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scrl.readthedocs.io) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/scfocus?style=flat-square&color=yellow) | [**scFocus**](https://github.com/PeterPonyu/scfocus) | SAC-based lineage branching probability analysis | [![PyPI](https://img.shields.io/pypi/v/scfocus?style=flat-square&color=brightgreen)](https://pypi.org/project/scfocus/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scfocus.readthedocs.io) |
@@ -167,7 +173,6 @@ Older or exploratory project entries are kept discoverable here without competin
 | Repository | Status | Description |
 |:-----------|:-------|:------------|
 | [**LAIOR**](https://github.com/PeterPonyu/Liora) | Accepted / legacy code entry | Hyperbolic Neural-ODE VAE for interpretable single-cell manifold learning and trajectory inference |
-| [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Landing-only public surface | Momentum Contrastive Coupling VAE for single-cell omics; public page remains a landing entry, not a hosted training app |
 | [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Exploratory / legacy | Graph Attention VAE with Hyperbolic Information Bottleneck |
 | [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Exploratory / legacy | Flow-matching refined DPMM prior autoencoder |
 | [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Exploratory / legacy | Flow-matching-refined Dirichlet-prior autoencoder |
