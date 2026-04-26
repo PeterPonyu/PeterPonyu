@@ -93,7 +93,7 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 > <sup>#</sup> Equal contribution &ensp; <sup>\*</sup> Corresponding author
 
-**Fu, Z.**, Chen, C., Zhang, K. (2026).
+**Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Zhang, K. (2026).
 Islands and bridges: Momentum contrastive coupling unifies discrete and continuous structure in single-cell omics.
 ***Biomedical Signal Processing and Control***, 122, 110376.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.bspc.2026.110376-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
@@ -113,6 +113,11 @@ Correlated Latent Space Learning for Structural Differentiation Modeling in Sing
 ***Computers in Biology and Medicine***, 198(A), 111115.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/) [![GitHub](https://img.shields.io/badge/Code-CODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CODE)
 
+**Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
+GNODEVAE: A Graph-Based ODE-VAE Enhances Clustering for Single-Cell Data.
+***BMC Genomics***, 26, 767.
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
+
 Chen, C.<sup>#</sup>, **Fu, Z.**<sup>#,\*</sup>, Yang, J. et al. (2025).
 scFocus: Detecting Branching Probabilities in Single-cell Data with SAC.
 ***Computational and Structural Biotechnology Journal***, 27, 2243--2263.
@@ -128,10 +133,6 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 ***Biology***, 14(6), 679.
 [![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/) [![GitHub](https://img.shields.io/badge/Code-scRL-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scRL)
 
-**Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
-GNODEVAE: A Graph-Based ODE-VAE Enhances Clustering for Single-Cell Data.
-***BMC Genomics***, 26, 767.
-[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
 
 **Fu, Z.**<sup>\*</sup>, Liu, Y., Wang, J., Wang, S. (2026).
 CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable and Interpretable Single-Cell Representation Learning.
