@@ -4,13 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Single-cell+Computational+Biology;Reinforcement+Learning+%C3%97+Cell+Fate;Interpretable+Representation+Learning;Neural+ODE+%C3%97+Variational+Autoencoders)](https://github.com/PeterPonyu)
 
-[![GitHub followers](https://img.shields.io/github/followers/PeterPonyu?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/PeterPonyu)
-[![GitHub stars](https://img.shields.io/github/stars/PeterPonyu?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/PeterPonyu)
 [![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
-[![Profile Views](https://komarev.com/ghpvc/?username=PeterPonyu&style=for-the-badge&color=blueviolet)](https://github.com/PeterPonyu)
 
-**Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/)
+**Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/) &middot; **GitHub:** [PeterPonyu](https://github.com/PeterPonyu)
 
 </div>
 
@@ -134,11 +131,6 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 [![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/) [![GitHub](https://img.shields.io/badge/Code-scRL-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scRL)
 
 
-**Fu, Z.**<sup>\*</sup>, Liu, Y., Wang, J., Wang, S. (2026).
-CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable and Interpretable Single-Cell Representation Learning.
-***Array***.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
-
 ---
 
 ## Featured Repositories
@@ -157,7 +149,6 @@ CCVGAE: A Centroid-Coupled Variational Graph Attention Autoencoder for Stable an
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/LiVAE?style=flat-square&color=yellow) | [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized VAE for transcriptomic & epigenomic data | [![PyPI](https://img.shields.io/pypi/v/livae?style=flat-square&color=brightgreen)](https://pypi.org/project/livae/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/GNODEVAE?style=flat-square&color=yellow) | [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics | [![PyPI](https://img.shields.io/pypi/v/gnodevae?style=flat-square&color=brightgreen)](https://pypi.org/project/gnodevae/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | [![PyPI](https://img.shields.io/pypi/v/scCODE?style=flat-square&color=brightgreen)](https://pypi.org/project/scCODE/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-coupled variational graph attention autoencoder (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) |
 
 ### Web Applications
 
@@ -211,8 +202,6 @@ Older or exploratory project entries are kept discoverable here without competin
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/PeterPonyu)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+**Research identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
 
 </div>
