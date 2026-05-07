@@ -86,6 +86,18 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 ---
 
+## AI Usage
+
+<div align="center">
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
+
+Public AI usage profile powered by Tokscale.
+
+</div>
+
+---
+
 ## Selected Publications
 
 > <sup>#</sup> Equal contribution &ensp; <sup>\*</sup> Corresponding author
