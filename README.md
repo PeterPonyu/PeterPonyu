@@ -165,16 +165,12 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 
 </div>
 
----
-
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 </div>
-
----
 
 <div align="center">
 
