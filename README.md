@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -36,7 +35,6 @@ I love **mass vibing**: many agents, many tools, many repositories, one research
 🤝 Open to          : Agent systems, AI-accelerated research, reproducible platforms, industry collaboration
 ```
 
----
 
 ## Academic Profiles
 
@@ -50,7 +48,6 @@ I love **mass vibing**: many agents, many tools, many repositories, one research
 
 </div>
 
----
 
 ## Academic Proofs: Selected Publications
 
@@ -63,6 +60,8 @@ Islands and bridges: Momentum contrastive coupling unifies discrete and continuo
         
         
         
+        
+        
         ) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
 
 **Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
@@ -72,32 +71,44 @@ CCVGAE: A centroid-coupled variational graph attention autoencoder for stable an
         
         
         
+        
+        
         ) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626001311-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626001311) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
 
 **Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
 CLOP-DiT: Structured-metadata-conditioned single-cell latent generation via contrastive language-omics pretraining and Diffusion Transformers.
 ***Array***, 100934 (in press).
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100934-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626002572-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626002572) [![GitHub](https://img.shields.io/badge/Code-CLOP--DiT-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CLOP-DiT)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100934-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934
+        
+        ) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626002572-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626002572) [![GitHub](https://img.shields.io/badge/Code-CLOP--DiT-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CLOP-DiT)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Performance for Single-Cell Data.
 ***BMC Biology***, 23, 213.
-[![DOI](https://img.shields.io/badge/DOI-10.1186/s12915--025--02315--7-blue?style=flat-square)](https://doi.org/10.1186/s12915-025-02315-7) [![PubMed](https://img.shields.io/badge/PMID-40660220-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40660220/) [![GitHub](https://img.shields.io/badge/Code-iVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iVAE)
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12915--025--02315--7-blue?style=flat-square)](https://doi.org/10.1186/s12915-025-02315-7
+        
+        ) [![PubMed](https://img.shields.io/badge/PMID-40660220-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40660220/) [![GitHub](https://img.shields.io/badge/Code-iVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iVAE)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2026).
 iAODE for Benchmarking and Continuum Modeling of Single-Cell Chromatin Accessibility.
 ***Communications Biology***.
-[![DOI](https://img.shields.io/badge/DOI-10.1038/s42003--026--09768--8-blue?style=flat-square)](https://doi.org/10.1038/s42003-026-09768-8) [![PubMed](https://img.shields.io/badge/PMID-41775921-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41775921/) [![GitHub](https://img.shields.io/badge/Code-iAODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iAODE)
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s42003--026--09768--8-blue?style=flat-square)](https://doi.org/10.1038/s42003-026-09768-8
+        
+        ) [![PubMed](https://img.shields.io/badge/PMID-41775921-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41775921/) [![GitHub](https://img.shields.io/badge/Code-iAODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iAODE)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup> (2025).
 Correlated Latent Space Learning for Structural Differentiation Modeling in Single Cell RNA Data.
 ***Computers in Biology and Medicine***, 198(A), 111115.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/) [![GitHub](https://img.shields.io/badge/Code-CODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CODE)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115
+        
+        ) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/) [![GitHub](https://img.shields.io/badge/Code-CODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CODE)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 GNODEVAE: A Graph-Based ODE-VAE Enhances Clustering for Single-Cell Data.
 ***BMC Genomics***, 26, 767.
-[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7
+        
+        ) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
 
 Chen, C.<sup>#</sup>, **Fu, Z.**<sup>#,\*</sup>, Yang, J. et al. (2025).
 scFocus: Detecting Branching Probabilities in Single-cell Data with SAC.
@@ -115,7 +126,6 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 [![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/) [![GitHub](https://img.shields.io/badge/Code-scRL-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scRL)
 
 
----
 
 ## GitHub Stats & AI Usage
 
