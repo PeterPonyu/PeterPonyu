@@ -88,56 +88,32 @@ iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Pe
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2026).
 iAODE for Benchmarking and Continuum Modeling of Single-Cell Chromatin Accessibility.
 ***Communications Biology***.
-[![DOI](https://img.shields.io/badge/DOI-10.1038/s42003--026--09768--8-blue?style=flat-square)](https://doi.org/10.1038/s42003-026-09768-8
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-41775921-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41775921/) [![GitHub](https://img.shields.io/badge/Code-iAODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iAODE)
+[![DOI](https://img.shields.io/badge/DOI-10.1038/s42003--026--09768--8-blue?style=flat-square)](https://doi.org/10.1038/s42003-026-09768-8) [![PubMed](https://img.shields.io/badge/PMID-41775921-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41775921/) [![GitHub](https://img.shields.io/badge/Code-iAODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/iAODE)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup> (2025).
 Correlated Latent Space Learning for Structural Differentiation Modeling in Single Cell RNA Data.
 ***Computers in Biology and Medicine***, 198(A), 111115.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/) [![GitHub](https://img.shields.io/badge/Code-CODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CODE)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.compbiomed.2025.111115-blue?style=flat-square)](https://doi.org/10.1016/j.compbiomed.2025.111115) [![PubMed](https://img.shields.io/badge/PMID-41046682-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41046682/) [![GitHub](https://img.shields.io/badge/Code-CODE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CODE)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 GNODEVAE: A Graph-Based ODE-VAE Enhances Clustering for Single-Cell Data.
 ***BMC Genomics***, 26, 767.
-[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
+[![DOI](https://img.shields.io/badge/DOI-10.1186/s12864--025--11946--7-blue?style=flat-square)](https://doi.org/10.1186/s12864-025-11946-7) [![PubMed](https://img.shields.io/badge/PMID-40841610-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40841610/) [![GitHub](https://img.shields.io/badge/Code-GNODEVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GNODEVAE)
 
 Chen, C.<sup>#</sup>, **Fu, Z.**<sup>#,\*</sup>, Yang, J. et al. (2025).
 scFocus: Detecting Branching Probabilities in Single-cell Data with SAC.
 ***Computational and Structural Biotechnology Journal***, 27, 2243--2263.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.csbj.2025.04.036-blue?style=flat-square)](https://doi.org/10.1016/j.csbj.2025.04.036
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-40520594-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40520594/) [![GitHub](https://img.shields.io/badge/Code-scFocus-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scfocus)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.csbj.2025.04.036-blue?style=flat-square)](https://doi.org/10.1016/j.csbj.2025.04.036) [![PubMed](https://img.shields.io/badge/PMID-40520594-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40520594/) [![GitHub](https://img.shields.io/badge/Code-scFocus-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scfocus)
 
 **Fu, Z.**<sup>#,\*</sup>, Fu, J.<sup>#</sup>, Chen, C.<sup>#</sup> et al. (2026).
 Lorentz-Regularized Interpretable VAE for Multi-Scale Single-Cell Transcriptomic and Epigenomic Embeddings.
 ***Frontiers in Genetics***, 16, 1713727.
-[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2025.1713727-blue?style=flat-square)](https://doi.org/10.3389/fgene.2025.1713727
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-41555918-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41555918/) [![GitHub](https://img.shields.io/badge/Code-LiVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/LiVAE)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2025.1713727-blue?style=flat-square)](https://doi.org/10.3389/fgene.2025.1713727) [![PubMed](https://img.shields.io/badge/PMID-41555918-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/41555918/) [![GitHub](https://img.shields.io/badge/Code-LiVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/LiVAE)
 
 **Fu, Z.**<sup>#</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell Data.
 ***Biology***, 14(6), 679.
-[![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679
-        
-        
-        
-        ) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/) [![GitHub](https://img.shields.io/badge/Code-scRL-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scRL)
+[![DOI](https://img.shields.io/badge/DOI-10.3390/biology14060679-blue?style=flat-square)](https://doi.org/10.3390/biology14060679) [![PubMed](https://img.shields.io/badge/PMID-40563931-green?style=flat-square)](https://pubmed.ncbi.nlm.nih.gov/40563931/) [![GitHub](https://img.shields.io/badge/Code-scRL-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scRL)
 
 
 ---
@@ -168,7 +144,6 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 </div>
 
