@@ -131,8 +131,6 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
 
-**AI-accelerated research:** I use agent harnesses as research infrastructure: planning, coding, evaluation, literature/data triage, visual QA, benchmark release, and reproducible production workflows. The target is an AI scientist workbench that connects papers, repositories, datasets, and deployment.
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
 <picture>
@@ -145,15 +143,11 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 
 ---
 
-<div align="center">
-
-**Public identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
-
-</div>
-
----
+### Random Dev Quote
 
 <div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <table>
 <tr>
@@ -166,5 +160,15 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 </td>
 </tr>
 </table>
+
+<sub>Mass vibing is the escape route: compose agents, tools, repositories, and research loops instead of living inside one application silo.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+**Public identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
 
 </div>
