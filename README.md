@@ -13,62 +13,23 @@
 
 ---
 
-## About Me
+## About & Stack
 
 2017 年高中毕业于**河北保定一中**，此后进入直博项目，攻读博士至今。
 
 I graduated from **Baoding No.1 High School, Hebei** in 2017, and have since been enrolled in a direct Ph.D. program, pursuing my doctoral degree to this day.
 
-My research develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), with published work in reinforcement learning, contrastive coupling, variational autoencoders, neural ODEs, graph neural networks, and hyperbolic geometry applied to cell fate analysis and representation learning.
+My research develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), with published work in reinforcement learning, contrastive coupling, variational autoencoders, neural ODEs, graph neural networks, diffusion/latent generation, and hyperbolic geometry applied to cell fate analysis and representation learning.
 
 ```text
-🎓 Background     : 保定一中 (2017) → Direct Ph.D. program → Present
-🔬 Current focus   : Machine learning methods for single-cell genomics
-🛠️ Building        : Open-source packages and paper companion platforms for single-cell representation learning
-🤝 Open to         : Research collaboration and reproducible analysis
+🎓 Background       : 保定一中 (2017) → Direct Ph.D. program → Present
+🔬 Research         : Single-cell representation learning, dynamics, and generative modeling
+🧬 Methods          : VAE · graph attention · neural ODE · RL · hyperbolic geometry · diffusion transformers
+🛠️ Core stack       : Python/R/C++/TypeScript/Shell/LaTeX · PyTorch/torchdiffeq/NumPy/SciPy/Scanpy/AnnData
+🌐 Public surfaces  : FastAPI · Streamlit · Vue/Next.js · PyPI · GitHub Actions · paper companion sites
+🤖 AI build loop    : Claude Code · Codex · Grok Build · Antigravity · OpenCode, coordinated by oh-my-* harnesses
+🤝 Open to          : Research collaboration, reproducible analysis, and code-backed paper releases
 ```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### Deep Learning & Scientific Computing
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![torchdiffeq](https://img.shields.io/badge/torchdiffeq-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Single-Cell Genomics
-
-![Scanpy](https://img.shields.io/badge/Scanpy-0891b2?style=for-the-badge)
-![AnnData](https://img.shields.io/badge/AnnData-1f6feb?style=for-the-badge)
-![scvi-tools](https://img.shields.io/badge/scvi--tools-7c3aed?style=for-the-badge)
-
-### Web & Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
 
 ---
 
@@ -92,7 +53,7 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
 
-Public AI usage profile powered by Tokscale.
+Public AI usage profile powered by Tokscale; this tracks the multi-agent build loop I run across Claude Code, Codex, Grok Build, Antigravity, and OpenCode with the oh-my-* harness series.
 
 </div>
 
@@ -106,6 +67,16 @@ Public AI usage profile powered by Tokscale.
 Islands and bridges: Momentum contrastive coupling unifies discrete and continuous structure in single-cell omics.
 ***Biomedical Signal Processing and Control***, 122, 110376.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.bspc.2026.110376-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
+
+**Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
+CCVGAE: A centroid-coupled variational graph attention autoencoder for stable and interpretable single-cell representation learning.
+***Array***, 30, 100808.
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626001311-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626001311) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
+
+**Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
+CLOP-DiT: Structured-metadata-conditioned single-cell latent generation via contrastive language-omics pretraining and Diffusion Transformers.
+***Array***, 100934 (in press).
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100934-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626002572-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626002572) [![GitHub](https://img.shields.io/badge/Code-CLOP--DiT-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CLOP-DiT)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Performance for Single-Cell Data.
@@ -154,6 +125,8 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 | | Repository | Description | Links |
 |:---:|:-----------|:------------|:------|
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum contrastive coupling for single-cell omics (BSPC, 2026) | [![DOI](https://img.shields.io/badge/DOI-BSPC-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/MCCVAE/) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-coupled graph attention VAE for stable, interpretable single-cell embeddings (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) |
+| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CLOP-DiT?style=flat-square&color=yellow) | [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Structured-metadata-conditioned single-cell latent generation with language-omics pretraining and DiT (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/iVAE?style=flat-square&color=yellow) | [**iVAE**](https://github.com/PeterPonyu/iVAE) | Interpretable VAE for single-cell clustering | [![PyPI](https://img.shields.io/pypi/v/iVAE?style=flat-square&color=brightgreen)](https://pypi.org/project/iVAE/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://ivae.readthedocs.io) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Neural ODE-VAE for scATAC-seq trajectory inference | [![PyPI](https://img.shields.io/pypi/v/iaode?style=flat-square&color=brightgreen)](https://pypi.org/project/iaode/) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
 | ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | [![PyPI](https://img.shields.io/pypi/v/scCODE?style=flat-square&color=brightgreen)](https://pypi.org/project/scCODE/) |
@@ -180,7 +153,6 @@ Older or exploratory project entries are kept discoverable here without competin
 | [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Exploratory / legacy | Graph Attention VAE with Hyperbolic Information Bottleneck |
 | [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Exploratory / legacy | Flow-matching refined DPMM prior autoencoder |
 | [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Exploratory / legacy | Flow-matching-refined Dirichlet-prior autoencoder |
-| [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Exploratory / legacy | Contrastive language-omics pretraining with diffusion transformer |
 | [**HSDE**](https://github.com/PeterPonyu/HSDE) | Exploratory / legacy | Hyperbolic stochastic differential equation modeling |
 | [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Exploratory / legacy | Momentum contrastive optimization framework |
 | [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Exploratory / legacy | Benchmarking local LLMs for single-cell dataset discovery |
