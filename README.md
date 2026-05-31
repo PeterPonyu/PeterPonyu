@@ -2,36 +2,38 @@
 
 # Zeyu Fu (付泽宇)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Single-cell+Computational+Biology;Reinforcement+Learning+%C3%97+Cell+Fate;Interpretable+Representation+Learning;Neural+ODE+%C3%97+Variational+Autoencoders)](https://github.com/PeterPonyu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=AI+Agent+Harnesses;Multi-Agent+Orchestration;Mass+Vibing+Systems;Code-Backed+Single-Cell+ML)](https://github.com/PeterPonyu)
 
 [![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
 
 **Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/) &middot; **GitHub:** [PeterPonyu](https://github.com/PeterPonyu)
 
+**Current focus:** AI agent harnesses, multi-agent orchestration, and code-backed scientific tooling.
+
 </div>
 
 ---
 
-## About & Workflow
+## About Me
 
 2017 年毕业于**河北保定一中**，随后进入直博项目并持续开展博士阶段研究。
 
 I graduated from **Baoding No.1 High School, Hebei** in 2017, then entered a direct Ph.D. track, where I continue to pursue doctoral research.
 
-My work develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), connecting representation learning, trajectory dynamics, generative modeling, and interpretable analysis for cell-state and cell-fate questions.
+My academic foundation is computational biology and single-cell machine learning: the publications below are proof that I can design methods, run validations, write papers, and release code-backed research. My current center of gravity is moving toward **AI agent harnesses and orchestration systems** — making Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` series work together as a high-throughput, production-minded **mass-vibing** build loop.
+
+I care about the bridge: academic rigor gives me method design, evaluation, and reproducibility; agent-harness engineering turns that discipline into industry-facing systems, automation, developer tooling, and production-level workflows.
 
 ```text
-🎓 Background      : 保定一中 (2017) → Direct Ph.D. track → Present
-🔬 Research focus  : Single-cell representation learning, dynamics, generation, interpretation
-🧠 Modeling layer  : VAE · graph attention/GNN · neural ODE/SDE · RL · contrastive learning
-                     diffusion/latent generation · hyperbolic geometry
-📊 Analysis layer  : Python for deep learning/data engineering; R for statistical biology
-🧰 Scientific stack: PyTorch · NumPy/SciPy/scikit-learn · Scanpy/AnnData/scvi-tools · Jupyter
-🌐 Release stack   : FastAPI/Streamlit · Vue/Next.js · Shell/LaTeX · PyPI · GitHub Actions
-🤖 Mass vibing     : Claude Code · Codex · Grok Build · Antigravity · OpenCode via oh-my-* harnesses
-📦 Public outputs  : Paper code · PyPI packages · benchmark dashboards · companion sites · notebooks
-🤝 Open to         : Methods collaboration, dataset analysis, reproducibility, code-backed papers
+🎓 Background       : 保定一中 (2017) → Direct Ph.D. track → Present
+🧪 Academic proof   : Single-cell ML papers, benchmarks, packages, and reproducible analyses
+🚀 Current focus    : AI agent harnesses · orchestration · workflow automation · production tooling
+🤖 Mass vibing      : Claude Code · Codex · Grok Build · Antigravity · OpenCode via oh-my-* harnesses
+🧰 Engineering      : Python · TypeScript/Node · Shell · GitHub Actions · tmux/CLI workflows · FastAPI/Next.js
+📊 Scientific base  : PyTorch/deep learning · R/statistics · Scanpy/AnnData · notebooks · method validation
+📦 Public outputs   : Agent harnesses · plugins/skills · CLI workflows · paper code · dashboards · docs
+🤝 Open to          : Agent systems, research tooling, reproducible platforms, and industry-grade collaboration
 ```
 
 ---
@@ -50,19 +52,7 @@ My work develops machine learning methods for single-cell sequencing data (scRNA
 
 ---
 
-## AI Usage
-
-<div align="center">
-
-[![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
-
-Public AI usage profile powered by Tokscale; it tracks the same mass-vibing workflow across Claude Code, Codex, Grok Build, Antigravity, and OpenCode, orchestrated with the oh-my-* harness series.
-
-</div>
-
----
-
-## Selected Publications
+## Academic Proofs: Selected Publications
 
 > <sup>#</sup> Equal contribution &ensp; <sup>\*</sup> Corresponding author
 
@@ -119,52 +109,7 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 
 ---
 
-## Featured Repositories
-
-<div align="center">
-
-### Published Tools
-
-| | Repository | Description | Links |
-|:---:|:-----------|:------------|:------|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/MCCVAE?style=flat-square&color=yellow) | [**MCCVAE**](https://github.com/PeterPonyu/MCCVAE) | Momentum contrastive coupling for single-cell omics (BSPC, 2026) | [![DOI](https://img.shields.io/badge/DOI-BSPC-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/MCCVAE/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CCVGAE?style=flat-square&color=yellow) | [**CCVGAE**](https://github.com/PeterPonyu/CCVGAE) | Centroid-coupled graph attention VAE for stable, interpretable single-cell embeddings (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CLOP-DiT?style=flat-square&color=yellow) | [**CLOP-DiT**](https://github.com/PeterPonyu/CLOP-DiT) | Structured-metadata-conditioned single-cell latent generation with language-omics pretraining and DiT (Array, 2026) | [![DOI](https://img.shields.io/badge/DOI-Array-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iVAE?style=flat-square&color=yellow) | [**iVAE**](https://github.com/PeterPonyu/iVAE) | Interpretable VAE for single-cell clustering | [![PyPI](https://img.shields.io/pypi/v/iVAE?style=flat-square&color=brightgreen)](https://pypi.org/project/iVAE/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://ivae.readthedocs.io) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/iAODE?style=flat-square&color=yellow) | [**iAODE**](https://github.com/PeterPonyu/iAODE) | Neural ODE-VAE for scATAC-seq trajectory inference | [![PyPI](https://img.shields.io/pypi/v/iaode?style=flat-square&color=brightgreen)](https://pypi.org/project/iaode/) [![Site](https://img.shields.io/badge/site-Pages-blue?style=flat-square)](https://peterponyu.github.io/iAODE/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/CODE?style=flat-square&color=yellow) | [**CODE**](https://github.com/PeterPonyu/CODE) | Correlated latent space learning and continuum modeling | [![PyPI](https://img.shields.io/pypi/v/scCODE?style=flat-square&color=brightgreen)](https://pypi.org/project/scCODE/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/GNODEVAE?style=flat-square&color=yellow) | [**GNODEVAE**](https://github.com/PeterPonyu/GNODEVAE) | Graph-based ODE-VAE for clustering and dynamics | [![PyPI](https://img.shields.io/pypi/v/gnodevae?style=flat-square&color=brightgreen)](https://pypi.org/project/gnodevae/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scfocus?style=flat-square&color=yellow) | [**scFocus**](https://github.com/PeterPonyu/scfocus) | SAC-based lineage branching probability analysis | [![PyPI](https://img.shields.io/pypi/v/scfocus?style=flat-square&color=brightgreen)](https://pypi.org/project/scfocus/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scfocus.readthedocs.io) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/LiVAE?style=flat-square&color=yellow) | [**LiVAE**](https://github.com/PeterPonyu/LiVAE) | Lorentz-regularized VAE for transcriptomic & epigenomic data | [![PyPI](https://img.shields.io/pypi/v/livae?style=flat-square&color=brightgreen)](https://pypi.org/project/livae/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scRL?style=flat-square&color=yellow) | [**scRL**](https://github.com/PeterPonyu/scRL) | Reinforcement learning for cell fate decision analysis | [![PyPI](https://img.shields.io/pypi/v/scrl-fatedecision?style=flat-square&color=brightgreen)](https://pypi.org/project/scrl-fatedecision/) [![Docs](https://img.shields.io/badge/docs-RTD-blue?style=flat-square)](https://scrl.readthedocs.io) |
-
-### Web Applications
-
-| | Repository | Description | Demo |
-|:---:|:-----------|:------------|:-----|
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/scportal?style=flat-square&color=yellow) | [**scportal**](https://github.com/PeterPonyu/scportal) | Single-cell analysis portal and discovery hub | [Live](https://peterponyu.github.io/scportal/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/liora-ui?style=flat-square&color=yellow) | [**liora-ui**](https://github.com/PeterPonyu/liora-ui) | LAIOR single-cell benchmarking dashboard | [Live](https://peterponyu.github.io/liora-ui/) |
-| ![Stars](https://img.shields.io/github/stars/PeterPonyu/mrnapp-intersection?style=flat-square&color=yellow) | [**mrnapp-intersection**](https://github.com/PeterPonyu/mrnapp-intersection) | mRNA intersection visualization | [Live](https://peterponyu.github.io/mrnapp-intersection/) |
-
-### Archive / Legacy Entries
-
-Older or exploratory project entries are kept discoverable here without competing with the current public pages above.
-
-| Repository | Status | Description |
-|:-----------|:-------|:------------|
-| [**LAIOR**](https://github.com/PeterPonyu/Liora) | Accepted / legacy code entry | Hyperbolic Neural-ODE VAE for interpretable single-cell manifold learning and trajectory inference |
-| [**GAHIB**](https://github.com/PeterPonyu/GAHIB) | Exploratory / legacy | Graph Attention VAE with Hyperbolic Information Bottleneck |
-| [**PanODE-DPMM**](https://github.com/PeterPonyu/PanODE-DPMM) | Exploratory / legacy | Flow-matching refined DPMM prior autoencoder |
-| [**PanODE-Topic**](https://github.com/PeterPonyu/PanODE-Topic) | Exploratory / legacy | Flow-matching-refined Dirichlet-prior autoencoder |
-| [**HSDE**](https://github.com/PeterPonyu/HSDE) | Exploratory / legacy | Hyperbolic stochastic differential equation modeling |
-| [**MoCoO**](https://github.com/PeterPonyu/MoCoO) | Exploratory / legacy | Momentum contrastive optimization framework |
-| [**scMetaIntel-Hub**](https://github.com/PeterPonyu/scMetaIntel-Hub) | Exploratory / legacy | Benchmarking local LLMs for single-cell dataset discovery |
-
-</div>
-
----
-
-## GitHub Stats
+## GitHub Stats & AI Usage
 
 <div align="center">
 
@@ -174,6 +119,10 @@ Older or exploratory project entries are kept discoverable here without competin
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PeterPonyu&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/PeterPonyu)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
+
+**AI usage:** Tokscale tracks the mass-vibing workflow across Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` harness series.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
@@ -189,6 +138,6 @@ Older or exploratory project entries are kept discoverable here without competin
 
 <div align="center">
 
-**Research identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
+**Public identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
 
 </div>
