@@ -13,22 +13,25 @@
 
 ---
 
-## About & Stack
+## About & Workflow
 
-2017 年高中毕业于**河北保定一中**，此后进入直博项目，攻读博士至今。
+2017 年毕业于**河北保定一中**，随后进入直博项目并持续开展博士阶段研究。
 
-I graduated from **Baoding No.1 High School, Hebei** in 2017, and have since been enrolled in a direct Ph.D. program, pursuing my doctoral degree to this day.
+I graduated from **Baoding No.1 High School, Hebei** in 2017, then entered a direct Ph.D. track, where I continue to pursue doctoral research.
 
-My research develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), with published work in reinforcement learning, contrastive coupling, variational autoencoders, neural ODEs, graph neural networks, diffusion/latent generation, and hyperbolic geometry applied to cell fate analysis and representation learning.
+My work develops machine learning methods for single-cell sequencing data (scRNA-seq and scATAC-seq), connecting representation learning, trajectory dynamics, generative modeling, and interpretable analysis for cell-state and cell-fate questions.
 
 ```text
-🎓 Background       : 保定一中 (2017) → Direct Ph.D. program → Present
-🔬 Research         : Single-cell representation learning, dynamics, and generative modeling
-🧬 Methods          : VAE · graph attention · neural ODE · RL · hyperbolic geometry · diffusion transformers
-🛠️ Core stack       : Python/R/C++/TypeScript/Shell/LaTeX · PyTorch/torchdiffeq/NumPy/SciPy/Scanpy/AnnData
-🌐 Public surfaces  : FastAPI · Streamlit · Vue/Next.js · PyPI · GitHub Actions · paper companion sites
-🤖 AI build loop    : Claude Code · Codex · Grok Build · Antigravity · OpenCode, coordinated by oh-my-* harnesses
-🤝 Open to          : Research collaboration, reproducible analysis, and code-backed paper releases
+🎓 Background      : 保定一中 (2017) → Direct Ph.D. track → Present
+🔬 Research focus  : Single-cell representation learning, dynamics, generation, interpretation
+🧠 Modeling layer  : VAE · graph attention/GNN · neural ODE/SDE · RL · contrastive learning
+                     diffusion/latent generation · hyperbolic geometry
+📊 Analysis layer  : Python for deep learning/data engineering; R for statistical biology
+🧰 Scientific stack: PyTorch · NumPy/SciPy/scikit-learn · Scanpy/AnnData/scvi-tools · Jupyter
+🌐 Release stack   : FastAPI/Streamlit · Vue/Next.js · Shell/LaTeX · PyPI · GitHub Actions
+🤖 Mass vibing     : Claude Code · Codex · Grok Build · Antigravity · OpenCode via oh-my-* harnesses
+📦 Public outputs  : Paper code · PyPI packages · benchmark dashboards · companion sites · notebooks
+🤝 Open to         : Methods collaboration, dataset analysis, reproducibility, code-backed papers
 ```
 
 ---
@@ -53,7 +56,7 @@ My research develops machine learning methods for single-cell sequencing data (s
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
 
-Public AI usage profile powered by Tokscale; this tracks the multi-agent build loop I run across Claude Code, Codex, Grok Build, Antigravity, and OpenCode with the oh-my-* harness series.
+Public AI usage profile powered by Tokscale; it tracks the same mass-vibing workflow across Claude Code, Codex, Grok Build, Antigravity, and OpenCode, orchestrated with the oh-my-* harness series.
 
 </div>
 
