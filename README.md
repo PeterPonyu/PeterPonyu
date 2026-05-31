@@ -2,14 +2,14 @@
 
 # Zeyu Fu (付泽宇)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=AI+Agent+Harnesses;Multi-Agent+Orchestration;Mass+Vibing+Systems;Code-Backed+Single-Cell+ML)](https://github.com/PeterPonyu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=AI+Agent+Harnesses;AI-Accelerated+Research;AI+Scientist+Infrastructure;Mass+Vibing+Systems)](https://github.com/PeterPonyu)
 
 [![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
 
 **Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/) &middot; **GitHub:** [PeterPonyu](https://github.com/PeterPonyu)
 
-**Current focus:** AI agent harnesses, multi-agent orchestration, and code-backed scientific tooling.
+**Current focus:** AI agent harnesses, AI-accelerated research, AI scientist infrastructure, and production-minded mass-vibing systems.
 
 </div>
 
@@ -21,20 +21,29 @@
 
 I graduated from **Baoding No.1 High School, Hebei** in 2017, then entered a direct Ph.D. track, where I continue to pursue doctoral research.
 
-My academic foundation is computational biology and single-cell machine learning: the publications below are proof that I can design methods, run validations, write papers, and release code-backed research. My current center of gravity is moving toward **AI agent harnesses and orchestration systems** — making Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` series work together as a high-throughput, production-minded **mass-vibing** build loop.
+My academic foundation is computational biology and single-cell machine learning: the publications below are proof that I can design methods, run validations, write papers, and release code-backed research. My current center of gravity is **AI agent harnesses and orchestration systems** — building the interfaces, telemetry, skills, plugins, and runtime loops that let Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` series work together.
 
-I care about the bridge: academic rigor gives me method design, evaluation, and reproducibility; agent-harness engineering turns that discipline into industry-facing systems, automation, developer tooling, and production-level workflows.
+I love **mass vibing**: many agents, many tools, many repositories, one research-and-build loop. The goal is not only to publish academic papers, but to turn research discipline into AI-accelerated engineering: agentic developer tooling, AI scientist workbenches, reproducible benchmark systems, and production-level automation that can connect academia with industry.
 
 ```text
 🎓 Background       : 保定一中 (2017) → Direct Ph.D. track → Present
-🧪 Academic proof   : Single-cell ML papers, benchmarks, packages, and reproducible analyses
-🚀 Current focus    : AI agent harnesses · orchestration · workflow automation · production tooling
+🧪 Academic proof   : Single-cell ML papers, benchmarks, packages, reproducible analyses
+🚀 Current focus    : Agent harnesses · AI scientist systems · orchestration · production tooling
 🤖 Mass vibing      : Claude Code · Codex · Grok Build · Antigravity · OpenCode via oh-my-* harnesses
-🧰 Engineering      : Python · TypeScript/Node · Shell · GitHub Actions · tmux/CLI workflows · FastAPI/Next.js
-📊 Scientific base  : PyTorch/deep learning · R/statistics · Scanpy/AnnData · notebooks · method validation
-📦 Public outputs   : Agent harnesses · plugins/skills · CLI workflows · paper code · dashboards · docs
-🤝 Open to          : Agent systems, research tooling, reproducible platforms, and industry-grade collaboration
+🧰 Harness stack    : TypeScript/Node · Python · Shell · tmux/CLI workflows · plugins/skills · GitHub Actions
+📊 Research stack   : PyTorch/deep learning · R/statistics · Scanpy/AnnData · spatial/single-cell validation
+🛰️ Telemetry/tools  : Tokscale-style usage telemetry · repo automation · benchmark dashboards · visual QA
+🤝 Open to          : Agent systems, AI-accelerated research, reproducible platforms, industry collaboration
 ```
+
+### Current Build Map
+
+| Direction | What I am building | Public signals |
+|:--|:--|:--|
+| **Agent harnesses** | Multi-agent coding/runtime surfaces, plugin/skill systems, and orchestration loops | [`oh-my-openagent`](https://github.com/PeterPonyu/oh-my-openagent), [`oh-my-grokbuild`](https://github.com/PeterPonyu/oh-my-grokbuild), [`oh-my-cursor`](https://github.com/PeterPonyu/oh-my-cursor), [`oh-my-copilot`](https://github.com/PeterPonyu/oh-my-copilot), [`oh-my-antigravity`](https://github.com/PeterPonyu/oh-my-antigravity) |
+| **Local-first forge systems** | Cross-language coding forge experiments and production-minded CLI/TUI workflows | [`emberforge`](https://github.com/PeterPonyu/emberforge), [`emberforge-ts`](https://github.com/PeterPonyu/emberforge-ts), [`emberforge-go`](https://github.com/PeterPonyu/emberforge-go), [`emberforge-cpp`](https://github.com/PeterPonyu/emberforge-cpp) |
+| **AI scientist infrastructure** | Bioinformatics agents, literature/citation pipelines, scientific visual QA, and private-data research workflows | [`helix`](https://github.com/PeterPonyu/helix), [`litchron`](https://github.com/PeterPonyu/litchron), [`scivcd`](https://github.com/PeterPonyu/scivcd), [`scMetaIntel-Hub`](https://github.com/PeterPonyu/scMetaIntel-Hub), [`tokscale`](https://github.com/PeterPonyu/tokscale) |
+| **AI-accelerated research** | Spatial/single-cell models, benchmark sites, and code-backed paper systems | [`aether-3d`](https://github.com/PeterPonyu/aether-3d), [`niche-lens-st`](https://github.com/PeterPonyu/niche-lens-st), [`lumina-st`](https://github.com/PeterPonyu/lumina-st), [`factorgraph-st`](https://github.com/PeterPonyu/factorgraph-st), [`CCVGAE`](https://github.com/PeterPonyu/CCVGAE), [`CLOP-DiT`](https://github.com/PeterPonyu/CLOP-DiT) |
 
 ---
 
@@ -122,7 +131,7 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
 
-**AI usage:** Tokscale tracks the mass-vibing workflow across Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` harness series.
+**AI-accelerated research:** I use agent harnesses as research infrastructure: planning, coding, evaluation, literature/data triage, visual QA, benchmark release, and reproducible production workflows. The target is an AI scientist workbench that connects papers, repositories, datasets, and deployment.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
 
@@ -139,5 +148,23 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 <div align="center">
 
 **Public identity:** [Homepage](https://peterponyu.github.io/) &middot; [ORCID](https://orcid.org/0009-0001-8329-0108) &middot; [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59315299200) &middot; [Web of Science](https://www.webofscience.com/wos/author/record/NOE-8588-2025)
+
+</div>
+
+---
+
+<div align="center">
+
+<table>
+<tr>
+<td align="left">
+
+<em>“Right now you are a prisoner of each application you use.”</em>
+
+<div align="right">— Ted Nelson</div>
+
+</td>
+</tr>
+</table>
 
 </div>
