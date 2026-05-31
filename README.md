@@ -36,15 +36,6 @@ I love **mass vibing**: many agents, many tools, many repositories, one research
 🤝 Open to          : Agent systems, AI-accelerated research, reproducible platforms, industry collaboration
 ```
 
-### Current Build Map
-
-| Direction | What I am building | Public signals |
-|:--|:--|:--|
-| **Agent harnesses** | Multi-agent coding/runtime surfaces, plugin/skill systems, and orchestration loops | [`oh-my-openagent`](https://github.com/PeterPonyu/oh-my-openagent), [`oh-my-grokbuild`](https://github.com/PeterPonyu/oh-my-grokbuild), [`oh-my-cursor`](https://github.com/PeterPonyu/oh-my-cursor), [`oh-my-copilot`](https://github.com/PeterPonyu/oh-my-copilot), [`oh-my-antigravity`](https://github.com/PeterPonyu/oh-my-antigravity) |
-| **Local-first forge systems** | Cross-language coding forge experiments and production-minded CLI/TUI workflows | [`emberforge`](https://github.com/PeterPonyu/emberforge), [`emberforge-ts`](https://github.com/PeterPonyu/emberforge-ts), [`emberforge-go`](https://github.com/PeterPonyu/emberforge-go), [`emberforge-cpp`](https://github.com/PeterPonyu/emberforge-cpp) |
-| **AI scientist infrastructure** | Bioinformatics agents, literature/citation pipelines, scientific visual QA, and private-data research workflows | [`helix`](https://github.com/PeterPonyu/helix), [`litchron`](https://github.com/PeterPonyu/litchron), [`scivcd`](https://github.com/PeterPonyu/scivcd), [`scMetaIntel-Hub`](https://github.com/PeterPonyu/scMetaIntel-Hub), [`tokscale`](https://github.com/PeterPonyu/tokscale) |
-| **AI-accelerated research** | Spatial/single-cell models, benchmark sites, and code-backed paper systems | [`aether-3d`](https://github.com/PeterPonyu/aether-3d), [`niche-lens-st`](https://github.com/PeterPonyu/niche-lens-st), [`lumina-st`](https://github.com/PeterPonyu/lumina-st), [`factorgraph-st`](https://github.com/PeterPonyu/factorgraph-st), [`CCVGAE`](https://github.com/PeterPonyu/CCVGAE), [`CLOP-DiT`](https://github.com/PeterPonyu/CLOP-DiT) |
-
 ---
 
 ## Academic Profiles
@@ -68,12 +59,20 @@ I love **mass vibing**: many agents, many tools, many repositories, one research
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Zhang, K. (2026).
 Islands and bridges: Momentum contrastive coupling unifies discrete and continuous structure in single-cell omics.
 ***Biomedical Signal Processing and Control***, 122, 110376.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.bspc.2026.110376-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.bspc.2026.110376-blue?style=flat-square)](https://doi.org/10.1016/j.bspc.2026.110376
+        
+        
+        
+        ) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S1746809426009304-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S1746809426009304) [![GitHub](https://img.shields.io/badge/Code-MCCVAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/MCCVAE)
 
 **Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
 CCVGAE: A centroid-coupled variational graph attention autoencoder for stable and interpretable single-cell representation learning.
 ***Array***, 30, 100808.
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626001311-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626001311) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100808-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100808
+        
+        
+        
+        ) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626001311-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626001311) [![GitHub](https://img.shields.io/badge/Code-CCVGAE-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CCVGAE)
 
 **Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
 CLOP-DiT: Structured-metadata-conditioned single-cell latent generation via contrastive language-omics pretraining and Diffusion Transformers.
