@@ -68,6 +68,21 @@ CLOP-DiT: Structured-metadata-conditioned single-cell latent generation via cont
 ***Array***, 100934 (in press).
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100934-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626002572-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626002572) [![GitHub](https://img.shields.io/badge/Code-CLOP--DiT-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CLOP-DiT)
 
+**Fu, Z.**<sup>#,\*</sup>, Fu, J.<sup>#</sup>, Wang, X.<sup>#</sup>, Liu, Y.<sup>\*</sup>, Ran, T.<sup>\*</sup> (2026).
+GAHIB: Graph Attention VAE with a Hyperbolic Information Bottleneck for Biologically Structured Single-Cell Representations.
+***Frontiers in Genetics***.
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1863100-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1863100) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1863100/full) [![GitHub](https://img.shields.io/badge/Code-GAHIB-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GAHIB)
+
+**Fu, Z.**<sup>#</sup>, Fu, J.<sup>#</sup>, Chen, C.<sup>#</sup>, Zhang, K., Wang, J.<sup>\*</sup>, Ran, T.<sup>\*</sup>, Wang, S.<sup>\*</sup> (2026).
+scCCVGBen for Benchmarking of Single-Cell Representation Learning Anchored on a Centroid-Coupled Variational Graph Attention Autoencoder across scRNA-seq and scATAC-seq.
+***Frontiers in Genetics***.
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1822168-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1822168) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1822168/full) [![GitHub](https://img.shields.io/badge/Code-scCCVGBen-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scCCVGBen)
+
+**Fu, Z.**<sup>#,\*</sup>, Fu, J.<sup>#</sup>, Zhang, K., Ran, T.<sup>\*</sup>, Chen, C.<sup>\*</sup> (2026).
+LAIOR: A Hyperbolic Neural ODE Variational Framework for Interpretable Single-Cell Manifold Learning and Trajectory Inference.
+***Frontiers in Genetics***.
+[![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1838613-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1838613) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1838613/full) [![GitHub](https://img.shields.io/badge/Code-Liora-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/Liora)
+
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
 iVAE: An Interpretable Representation Learning Framework Enhancing Clustering Performance for Single-Cell Data.
 ***BMC Biology***, 23, 213.
