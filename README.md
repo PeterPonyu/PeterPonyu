@@ -1,38 +1,33 @@
 <div align="center">
 
-# Zeyu Fu (付泽宇)
+# Zeyu Fu
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=AI+Agent+Harnesses;AI-Accelerated+Research;AI+Scientist+Infrastructure;Mass+Vibing+Systems)](https://github.com/PeterPonyu)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&lines=AI+for+Science;Science+for+AI;AI+Scientist;Methods+%26+Research+Systems)](https://github.com/PeterPonyu)
 
 [![Homepage](https://img.shields.io/badge/Homepage-peterponyu.github.io-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://peterponyu.github.io/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--8329--0108-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-8329-0108)
 
-**Official homepage:** [peterponyu.github.io](https://peterponyu.github.io/) &middot; **GitHub:** [PeterPonyu](https://github.com/PeterPonyu)
+**Homepage:** [peterponyu.github.io](https://peterponyu.github.io/) · **GitHub:** [PeterPonyu](https://github.com/PeterPonyu)
 
-**Current focus:** AI agent harnesses, AI-accelerated research, AI scientist infrastructure, and production-minded mass-vibing systems.
+**Focus:** AI for Science · Science for AI
 
 </div>
 
-
 ## About Me
 
-2017 年毕业于**河北保定一中**，随后进入直博项目并持续开展博士阶段研究。
+I work on two axes: **AI for Science** and **Science for AI**.
 
-I graduated from **Baoding No.1 High School, Hebei** in 2017, then entered a direct Ph.D. track, where I continue to pursue doctoral research.
+AI for Science means methods, benchmarks, and open software that accelerate research. Science for AI means harnesses, orchestration, telemetry, and evaluation that make AI usable for serious work.
 
-My academic foundation is computational biology and single-cell machine learning: the publications below are proof that I can design methods, run validations, write papers, and release code-backed research. My current center of gravity is **AI agent harnesses and orchestration systems** — building the interfaces, telemetry, skills, plugins, and runtime loops that let Claude Code, Codex, Grok Build, Antigravity, OpenCode, and the `oh-my-*` series work together.
-
-I love **mass vibing**: many agents, many tools, many repositories, one research-and-build loop. The goal is not only to publish academic papers, but to turn research discipline into AI-accelerated engineering: agentic developer tooling, AI scientist workbenches, reproducible benchmark systems, and production-level automation that can connect academia with industry.
+The publications below are application proof — evidence I can design, validate, write, and ship. Domain case work (including earlier single-cell studies) is not the identity.
 
 ```text
-🎓 Background       : 保定一中 (2017) → Direct Ph.D. track → Present
-🧪 Academic proof   : Single-cell ML papers, benchmarks, packages, reproducible analyses
-🚀 Current focus    : Agent harnesses · AI scientist systems · orchestration · production tooling
-🤖 Mass vibing      : Claude Code · Codex · Grok Build · Antigravity · OpenCode via oh-my-* harnesses
-🧰 Harness stack    : TypeScript/Node · Python · Shell · tmux/CLI workflows · plugins/skills · GitHub Actions
-📊 Research stack   : PyTorch/deep learning · R/statistics · Scanpy/AnnData · spatial/single-cell validation
-🛰️ Telemetry/tools  : Tokscale-style usage telemetry · repo automation · benchmark dashboards · visual QA
-🤝 Open to          : Agent systems, AI-accelerated research, reproducible platforms, industry collaboration
+Background        : Direct Ph.D. track → Present
+Identity          : AI for Science · Science for AI
+Proof channel     : Peer-reviewed papers, packages, public tools
+Systems work      : Agent harnesses · orchestration · telemetry · QA
+Stack             : TypeScript/Node · Python · Shell · plugins/skills · GitHub Actions
+Open to           : AI scientist systems, research tooling, industry collaboration
 ```
 
 
