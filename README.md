@@ -30,17 +30,6 @@ Stack             : TypeScript/Node · Python · Shell · plugins/skills · GitH
 Open to           : AI scientist systems, research tooling, industry collaboration
 ```
 
-## Live doors
-
-Five public science doors (GitHub Pages, served from each experiment repo):
-
-- **[Muon-accelerated grokking](https://peterponyu.github.io/muon-norm-cap-grokking/)** — causal Frobenius-norm cap; norm growth is a byproduct, not the cause, of Muon-accelerated grokking.
-- **[The grokking clock](https://peterponyu.github.io/grokking-clock/)** — precision, objective, and weight decay.
-- **[Architecture-shaped degree-staircase](https://peterponyu.github.io/architecture-staircase/)** — degree-staircase emergence is architecture-shaped.
-- **[Free-repetition band](https://peterponyu.github.io/free-repetition-band/)** — a free-repetition band on repeated data.
-- **[Calibration traps](https://peterponyu.github.io/calibration-traps/)** — two pre-registered emergence negatives on small-scale testbeds.
-
-
 ## Academic Profiles
 
 <div align="center">
