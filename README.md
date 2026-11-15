@@ -59,22 +59,22 @@ CCVGAE: A centroid-coupled variational graph attention autoencoder for stable an
 
 **Fu, Z.**<sup>#,\*</sup>, Liu, Y.<sup>#</sup>, Wang, J., Wang, S. (2026).
 CLOP-DiT: Structured-metadata-conditioned single-cell latent generation via contrastive language-omics pretraining and Diffusion Transformers.
-***Array***, 100934 (in press).
+***Array***, 30, 100934.
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.array.2026.100934-blue?style=flat-square)](https://doi.org/10.1016/j.array.2026.100934) [![ScienceDirect](https://img.shields.io/badge/ScienceDirect-S2590005626002572-orange?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S2590005626002572) [![GitHub](https://img.shields.io/badge/Code-CLOP--DiT-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/CLOP-DiT)
 
 **Fu, Z.**<sup>#,\*</sup>, Fu, J.<sup>#</sup>, Wang, X.<sup>#</sup>, Liu, Y.<sup>\*</sup>, Ran, T.<sup>\*</sup> (2026).
 GAHIB: Graph Attention VAE with a Hyperbolic Information Bottleneck for Biologically Structured Single-Cell Representations.
-***Frontiers in Genetics***.
+***Frontiers in Genetics***, 17, 1863100.
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1863100-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1863100) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1863100/full) [![GitHub](https://img.shields.io/badge/Code-GAHIB-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/GAHIB)
 
 **Fu, Z.**<sup>#</sup>, Fu, J.<sup>#</sup>, Chen, C.<sup>#</sup>, Zhang, K., Wang, J.<sup>\*</sup>, Ran, T.<sup>\*</sup>, Wang, S.<sup>\*</sup> (2026).
 scCCVGBen for Benchmarking of Single-Cell Representation Learning Anchored on a Centroid-Coupled Variational Graph Attention Autoencoder across scRNA-seq and scATAC-seq.
-***Frontiers in Genetics***.
+***Frontiers in Genetics***, 17, 1822168.
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1822168-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1822168) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1822168/full) [![GitHub](https://img.shields.io/badge/Code-scCCVGBen-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/scCCVGBen)
 
 **Fu, Z.**<sup>#,\*</sup>, Fu, J.<sup>#</sup>, Zhang, K., Ran, T.<sup>\*</sup>, Chen, C.<sup>\*</sup> (2026).
 LAIOR: A Hyperbolic Neural ODE Variational Framework for Interpretable Single-Cell Manifold Learning and Trajectory Inference.
-***Frontiers in Genetics***.
+***Frontiers in Genetics***, 17, 1838613.
 [![DOI](https://img.shields.io/badge/DOI-10.3389/fgene.2026.1838613-blue?style=flat-square)](https://doi.org/10.3389/fgene.2026.1838613) [![Frontiers](https://img.shields.io/badge/Frontiers-full--text-green?style=flat-square)](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1838613/full) [![GitHub](https://img.shields.io/badge/Code-Liora-181717?style=flat-square&logo=github)](https://github.com/PeterPonyu/Liora)
 
 **Fu, Z.**<sup>#,\*</sup>, Chen, C.<sup>#</sup>, Wang, S. et al. (2025).
@@ -118,15 +118,15 @@ scRL: Utilizing Reinforcement Learning to Evaluate Fate Decisions in Single-Cell
 <div align="center">
 
 <a href="https://github.com/PeterPonyu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterPonyu&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterPonyu&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=Jupyter%20Notebook&cache_seconds=1800" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeterPonyu&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PeterPonyu&theme=tokyonight" alt="Top Languages" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PeterPonyu&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/PeterPonyu)
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/PeterPonyu/svg?sort=cost&compact=1)](https://tokscale.ai/u/PeterPonyu)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PeterPonyu&theme=tokyo-night&hide_border=true&area=true)](https://github.com/PeterPonyu)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterPonyu&theme=tokyonight)](https://github.com/PeterPonyu)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeterPonyu/PeterPonyu/output/github-contribution-grid-snake-dark.svg" />
